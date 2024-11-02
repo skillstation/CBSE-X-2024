@@ -9,7 +9,7 @@
 ## STUDENTS ON-ROLL
 
 | **STUDENT-ID** | **STUDENT-NAME** | **PROGRESS-REPORT** | **WHATSAPP-GROUP** |
-|:---------------:||:---------------:|:-------------------:|:------------------:|
+|:---------------:|:---------------:|:-------------------:|:------------------:|
 | B12401 | ANAHITHA PANDEY | [Anahitha_Progress_Report]() | (group_link)[] |
 | A12402 | ISHAN MOHAMMAD | [Ishan_Progress_Report]() | (group_link)[] |
 | A12403 | DHAIRYA | [Dhairya_Progress_Report]() | (group_link)[] |
@@ -25,8 +25,8 @@
 | 241102-02       | NOV-W1-SAT   |  10:45 AM - 11:30 AM   | MATHS - Surface Areas & Volumes (S01) [👨‍🏫]() [📝]()   | ✅  | Compensation Class for THU 2/2 |
 | 241103-03       | NOV-W1-SUN   |  9:15 AM - 10:00 AM   | MATHS - Arithmetic Progression (S03) [👨‍🏫]() [📝]()   | ✔️ | | Scheduled |
 | 241103-04       | NOV-W1-SUN   |  10:15 AM - 12:00 PM*   | MATHS - Surface Areas & Volumes (S02) [👨‍🏫]() [📝]()   | ✔️ | | Scheduled |
-| 241105-05       | NOV-W2-TUE   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals (---) [👨‍🏫]() [📝]()   | ✔️ | | Scheduled | Tentative |
-| 241107-06       | NOV-W2-THU   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals (---) [👨‍🏫]() [📝]()   | ✔️ | | Scheduled | Tentative |
+| 241105-05       | NOV-W2-TUE   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals (---) [👨‍🏫]() [📝]()   |  | | Scheduled | Tentative |
+| 241107-06       | NOV-W2-THU   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals (---) [👨‍🏫]() [📝]()   |  | | Scheduled | Tentative |
 | 241109-07       | NOV-W2-SAT   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   | ✔️ | | --- | --- |
 | 241110-08       | NOV-W2-SUN   |  3:00 PM - 4:30 PM   | --- (---) [👨‍🏫]() [📝]()   | ✔️ | | --- | --- |
 | 241112-09       | NOV-W3-TUE   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   | ✔️ | | --- | --- |
