@@ -1,5 +1,7 @@
 ## CBSE-X-2024-TUITION-BATCH
 
+[**Link to Notes**](https://1drv.ms/u/s!AsjDbU8v1wKhbhWCh9wmsBbw0qc)
+
 **CBSE-X-2024-MAT(1)-B1**
 
 **CBSE-X-2024-MAT-SCI(2)-A1**
