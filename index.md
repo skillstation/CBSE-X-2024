@@ -10,10 +10,10 @@
 
 | **STUDENT-ID** | **STUDENT-NAME** | **PROGRESS-REPORT** | **WHATSAPP-GROUP** |
 |:---------------:|:---------------:|:-------------------:|:------------------:|
-| B12401 | ANAHITHA PANDEY | [Anahitha_Progress_Report]() | (group_link)[] |
-| A12402 | ISHAN MOHAMMAD | [Ishan_Progress_Report]() | (group_link)[] |
-| A12403 | DHAIRYA | [Dhairya_Progress_Report]() | (group_link)[] |
-| N12404 | MUGIL SARAN | [Mugil_Progress_Report]() | (group_link) |
+| B12401 | ANAHITHA PANDEY | [Anahitha_Progress_Report]() |  |
+| A12402 | ISHAN MOHAMMAD | [Ishan_Progress_Report](24A1/01-ishan.md) | (group_link)[https://chat.whatsapp.com/D2hEHpCOEYg9ZaZ8WlXvsS] |
+| A12403 | DHAIRYA | [Dhairya_Progress_Report](24A1/02-dhairya.md) | (group_link)[https://chat.whatsapp.com/CnsU9zkhYa5E4Y3OU3YI99] |
+| N12404 | MUGIL SARAN | [Mugil_Progress_Report]() |  |
 
 ## SCHEDULE OF CLASSES 
 
