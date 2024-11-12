@@ -25,13 +25,13 @@
 |:--------------:|:------------:|:--------------------:|:------------------------------------|:----------:|:----------:|
 | 241102-01       | NOV-W1-SAT   |  9:30 AM - 10:15 AM   | MATHS - Arithmetic Progression (S02) [👨‍🏫]() [📝]()   | ✅  | Compensation Class for THU 1/2 |
 | 241102-02       | NOV-W1-SAT   |  10:45 AM - 11:30 AM   | MATHS - Surface Areas & Volumes (S01) [👨‍🏫]() [📝]()   | ✅  | Compensation Class for THU 2/2 |
-| 241103-03       | NOV-W1-SUN   |  9:15 AM - 10:00 AM   | MATHS - Arithmetic Progression (S03) [👨‍🏫]() [📝]()   | ✅ | | Completed |
-| 241103-04       | NOV-W1-SUN   |  10:15 AM - 12:00 PM*   | MATHS - Surface Areas & Volumes (S02) [👨‍🏫]() [📝]()   | ✅ | | Completed |
-| 241105-05       | NOV-W2-TUE   |  6:30 PM - 8:00 PM   | MATHS - Sureface Areas & Volumes (S03) [👨‍🏫]() [📝]()   |  | | Scheduled | Tentative |
-| 241107-06       | NOV-W2-THU   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals (---) [👨‍🏫]() [📝]()   |  | | Scheduled | Tentative |
-| 241109-07       | NOV-W2-SAT   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
-| 241110-08       | NOV-W2-SUN   |  3:00 PM - 4:30 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
-| 241112-09       | NOV-W3-TUE   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
+| 241103-03       | NOV-W1-SUN   |  9:15 AM - 10:00 AM   | MATHS - Arithmetic Progression (S03) [👨‍🏫]() [📝]()   | ✅ | Completed |  |
+| 241103-04       | NOV-W1-SUN   |  10:15 AM - 12:00 PM*   | MATHS - Surface Areas & Volumes (S02) [👨‍🏫]() [📝]()   | ✅ | Completed |  |
+| 241105-05       | NOV-W2-TUE   |  6:30 PM - 8:00 PM   | MATHS - Sureface Areas & Volumes (S03) [👨‍🏫]() [📝]()   | ✅ | Completed |  |  |
+| 241107-06       | NOV-W2-THU   |  6:30 PM - 8:00 PM   |  --- [👨‍🏫]() [📝]()   | ❌ | | Post-poned |  |
+| 241109-07       | NOV-W2-SAT   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [👨‍🏫]() [📝]()   | Completed | | --- | --- |
+| 241110-08       | NOV-W2-SUN   |  3:00 PM - 4:30 PM   | --- [👨‍🏫]() [📝]()   |  | | --- | Students req to PostPone |
+| 241112-09       | NOV-W3-TUE   |  6:30 PM - 8:00 PM   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [👨‍🏫]() [📝]()   | Completed | | --- | --- |
 | 241114-10       | NOV-W3-THU   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
 | 241116-11       | NOV-W3-SAT   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
 | 241117-12       | NOV-W3-SUN   |  3:00 PM - 4:30 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
