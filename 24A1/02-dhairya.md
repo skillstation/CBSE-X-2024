@@ -7,3 +7,6 @@
 | 241102-02       | NOV-W1-SAT   | MATHS - SURFACE AREAS & VOL  [ + 1 • Notes❌]() [ +1• Problems-1❌]()   | PENDING  | | Deadline: 9:15 AM Sun 3 Nov • Submission: Sat02Nov1034PM |
 | 241103-03       | NOV-W1-SUN   | MATHS - Arithmetic Progression [Notes]() [Problems-7]()   | TODO  | | Deadline: Tue5Nov615PM |
 | 241103-04       | NOV-W1-SUN   | MATHS - Surface Areas & Volumes [Notes]() [Problems-7]()   | TODO  | | Deadline: Tue5Nov615PM |
+| 241105-05       | NOV-W2-TUE   |   MATHS - Sureface Areas & Volumes (S03) [👨‍🏫]() [📝]()   | TODO |  |  |  |
+| 241109-07       | NOV-W2-SAT   |  SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [👨‍🏫]() [📝]()   | TODO | | --- | --- |
+| 241112-09       | NOV-W3-TUE   |  SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [👨‍🏫]() [📝]()   | TODO | | --- | --- |
