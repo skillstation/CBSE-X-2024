@@ -9,4 +9,4 @@
 | 241103-04       | NOV-W1-SUN   | MATHS - Surface Areas & Volumes [Notes✅](01-ishan/241103-04-NOTES.pdf) [Problems]()   | INCOMPLETE|  | Deadline: Tue5Nov615PM |
 | 241105-05       | NOV-W2-TUE   | MATHS - Sureface Areas & Volumes (S03) [Notes✔️]() [Problems7-❌]()   | INCOMPLETE|  | Deadline: Tue9Nov615PM | |
 | 241109-07       | NOV-W2-SAT   | SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [+1 Notes ❌]()    | PENDING | 0  | Deadline: Tue12Nov615PM |  |
-| 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes ]() [Assignment10Qs]() | TODO | | --- | Deadline:   |
+| 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes ]() [Assignment10Qs]() | TODO | | Deadline:Thu14Nov630PM |  |
