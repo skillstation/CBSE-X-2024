@@ -1,5 +1,7 @@
 ## CBSE-X-2024-24A1-02-DHAIRYA
 
+**Updated:** Tue 12 Nov 7:00 PM 
+
 | **SESSION-ID** |  **WEEK**    |      **TOPICS**       | **SUBMISSION-STATUS**               | **SCORE**  | **REMARKS** |
 |:--------------:|:------------:|:--------------------:|:------------------------------------|:----------:|:----------:|
 | 241029       | OCT-W5-TUE   | MATHS - Arithmetic Progression (S01) [ 0 Notes❌]() [ 0 Problems-18✔️]()   | INCOMPLETE  | 0 | Deadline:09:15 AM Sat 2 Nov • New Deadline: 11:59 PM Sat 2 Nov • Late Submission Sat02Nov1143PM |
