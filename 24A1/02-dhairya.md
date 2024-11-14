@@ -2,6 +2,12 @@
 
 **Updated:** Tue 12 Nov 7:00 PM 
 
+**Next Exam**: Surface Areas and Volumes
+
+• [Jeevlin] Update status for Arithmetic Progression Problems(all done); Notes(all done); suraface ares notes submited(all)
+• [Dhairya] Please submit surface areas and volumes - probelms all sets;
+
+
 | **SESSION-ID** |  **WEEK**    |      **TOPICS**       | **SUBMISSION-STATUS**               | **SCORE**  | **REMARKS** |
 |:--------------:|:------------:|:--------------------:|:------------------------------------|:----------:|:----------:|
 | 241029       | OCT-W5-TUE   | MATHS - Arithmetic Progression (S01) [ 0 Notes❌]() [ 0 Problems-18✔️]()   | INCOMPLETE  | 0 | Deadline:09:15 AM Sat 2 Nov • New Deadline: 11:59 PM Sat 2 Nov • Late Submission Sat02Nov1143PM |
