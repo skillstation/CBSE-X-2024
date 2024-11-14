@@ -6,7 +6,7 @@
 
 **REMARKS**
 
-• [Jeevlin] Update status for Arithmetic Progression Problems(all done); Notes(all done); suraface ares notes submited(all)
+• [Jeevlin] Update status for Arithmetic Progression Problems(all done); Notes(all done); suraface ares notes submited(all); metals and nonmetals s02 noted completed; 
 
 • [Dhairya] Please submit surface areas and volumes - probelms all sets;
 
