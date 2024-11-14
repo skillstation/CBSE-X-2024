@@ -20,4 +20,5 @@
 | 241103-04       | NOV-W1-SUN   | MATHS - Surface Areas & Volumes [Notes❌]() [Problems-7❌]()   | PENDING  | | Deadline: Tue5Nov615PM |
 | 241105-05       | NOV-W2-TUE   | MATHS - Sureface Areas & Volumes (S03) [Notes✔️]() [Problems7-❌]()   | INCOMPLETE|  |  | Submitted:Sat9Nov12PM • Re-submit|
 | 241109-07       | NOV-W2-SAT   | SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [+1 Notes✅](02-dhairya/241109-02-NOTES.pdf)    | COMPLETED | 1  | Deadline: Tue12Nov615PM  • Submission Mon11Nov424PM |  |
-| 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes ]() [Assignment10Qs]() | TODO | | Deadline:Thu14Nov630PM |    |
+| 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes ]() [Assignment10Qs]() | INCOMPLETE| | Deadline:Thu14Nov630PM |    |
+ 241114-10       | NOV-W3-THU   |  SCIENCE - Human Eyes & Colourful World +45Mins(Sun-1/2)[ Notes ]()  | TODO |  |Deadline:Sat16Nov600PM|
