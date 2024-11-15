@@ -1,6 +1,6 @@
 ## CBSE-X-2024-24A1-02-DHAIRYA
 
-**Updated:** Tue 12 Nov 7:00 PM 
+**Updated:** Fri 15 Nov 11:28 PM 
 
 **Next Exam**: Surface Areas and Volumes
 
