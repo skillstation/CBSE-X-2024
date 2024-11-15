@@ -18,8 +18,8 @@
 | 241102-01       | NOV-W1-SAT   | MATHS - Arithmetic Progression  [Notes✔️]() [Problems-7✔️](02-dhairya/241101-02-PROBLEMS.pdf) | COMPLETED  | 0 | Deadline: 9:15 AM Sun 3 Nov |
 | 241102-02       | NOV-W1-SAT   | MATHS - SURFACE AREAS & VOL  [Notes✔️]() [Problems-1❌]()   | INCOMPLETE  | 0 | Deadline: 9:15 AM Sun 3 Nov • Submission: Sat02Nov1034PM |
 | 241103-03       | NOV-W1-SUN   | MATHS - Arithmetic Progression [Notes✔️](02-dhairya/241103-03-NOTES.pdf) [Problems-7✔️](02-dhairya/241103-03-PROBLEMS.pdf)   | COMPLETED  | 0 | Deadline: Tue5Nov615PM  • Late Submission Thu14Nov626PM |
-| 241103-04       | NOV-W1-SUN   | MATHS - Surface Areas & Volumes [Notes✔️]() [Problems-7❌]()   | INCOMPLETE  | | Deadline: Tue5Nov615PM |
-| 241105-05       | NOV-W2-TUE   | MATHS - Surface Areas & Volumes (S03) [Notes✔️](02-dhairya/241105-05-NOTES.pdf) [Problems7-❌]()   | INCOMPLETE|  |  | Submitted:Sat9Nov12PM • Re-submit|
+| 241103-04       | NOV-W1-SUN   | MATHS - Surface Areas & Volumes [Notes✔️]() [Problems-7❌]()   | INCOMPLETE  | -1 | Deadline: Tue5Nov615PM |
+| 241105-05       | NOV-W2-TUE   | MATHS - Surface Areas & Volumes (S03) [Notes✔️](02-dhairya/241105-05-NOTES.pdf) [Problems7-❌]()   | INCOMPLETE| -1 |  Submitted:Sat9Nov12PM • Re-submit|
 | 241109-07       | NOV-W2-SAT   | SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [+1 Notes✅](02-dhairya/241109-02-NOTES.pdf)    | COMPLETED | +1  | Deadline: Tue12Nov615PM  • Submission Mon11Nov424PM |  |
 | 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes✅](02-dhairya/241112-09-NOTES.pdf) | COMPLETED| +1 | Deadline:Thu14Nov630PM |    |
  241114-10       | NOV-W3-THU   |  SCIENCE - Human Eyes & Colourful World +45Mins(Sun-1/2)[ Notes]()  | TODO |  |Deadline:Sat16Nov600PM|
