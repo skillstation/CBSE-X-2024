@@ -11,3 +11,10 @@
 | 241109-07       | NOV-W2-SAT   | SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [+1 Notes ❌]()    | PENDING | 0  | Deadline: Tue12Nov615PM |  |
 | 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes ]() | TODO | | Deadline:Thu14Nov630PM |  |
 
+-------------------------
+
+**REMARKS**
+
+• Add THU session and mark TODO for Ishan; 
+• Add scores; give +1 if notes & problems have green tick; 0 for late submissions; if notes has green tick and problems is pending - this is incomplete and hence give 0; 
+
