@@ -15,6 +15,7 @@
 
 **REMARKS**
 
-• Add THU session and mark TODO for Ishan; 
-• Add scores; give +1 if notes & problems have green tick; 0 for late submissions; if notes has green tick and problems is pending - this is incomplete and hence give 0; 
+• @Jeevlin Add THU session and mark TODO for Ishan;
+
+• @Jeevlin Add scores; give +1 if notes & problems have green tick; 0 for late submissions; if notes has green tick and problems is pending - this is incomplete and hence give 0; 
 
