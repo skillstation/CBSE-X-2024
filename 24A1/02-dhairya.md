@@ -23,7 +23,7 @@
 | 241109-07       | NOV-W2-SAT   | SCIENCE - Metals & Non-Metals(S01) + 45 Min(Thu-1/2) [+1 Notes✅](02-dhairya/241109-02-NOTES.pdf)    | COMPLETED | +1  | Deadline: Tue12Nov615PM  • Submission Mon11Nov424PM |  |
 | 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes✅](02-dhairya/241112-09-NOTES.pdf) | COMPLETED| +1 | Deadline:Thu14Nov630PM  • Submission Thu14Nov619pm |    |
  241114-10       | NOV-W3-THU   |  SCIENCE - Human Eyes & Colourful World +45Mins(Sun-1/2)[ Notes✅](02-dhairya/241114-10-NOTES.pdf)  | COMPLETED | +1 |Deadline:Sat16Nov600PM  • Submission fri15Nov803PM  |
- | 241116-11       | NOV-W3-SAT   |  SCIENCE - Human Eyes Colorful World S02[ Notes✅](02-dhairya/241116-11-NOTES.pdf)  | COMPLETED| |+1 | Deadline:Sun17Nov600PM  • Submission Sun17Nov105PM |
+ | 241116-11       | NOV-W3-SAT   |  SCIENCE - Human Eyes Colorful World S02[ Notes✅](02-dhairya/241116-11-NOTES.pdf)  | COMPLETED |+1 | Deadline:Sun17Nov600PM  • Submission Sun17Nov105PM |
 
 ✔️ - Late Submission
 ✅ - On-time Submission
