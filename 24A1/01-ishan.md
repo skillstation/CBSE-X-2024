@@ -12,6 +12,7 @@
 | 241112-09       | NOV-W3-TUE   | SCIENCE - Metals & Non-Metals(S02) + 45mins(Thu-2/2) [ Notes❌]() | PENDING | 0 | Deadline:Thu14Nov630PM |  |
  241114-10       | NOV-W3-THU   |  SCIENCE - Human Eyes & Colourful World +45Mins(Sun-1/2)[ Notes❌]()  |  PENDING  | 0 |Deadline:Sat16Nov600PM|
  | 241116-11       | NOV-W3-SAT   |  SCIENCE - Human Eyes Colorful World S02[ Notes]()  | TODO| | Deadline:Sun17Nov600PM |
+
 -------------------------
 
 **REMARKS**
