@@ -10,15 +10,29 @@
 
 ## STUDENTS ON-ROLL
 
+<!--
 | **STUDENT-ID** | **STUDENT-NAME** | **PROGRESS-REPORT** | **WHATSAPP-GROUP** |
 |:---------------:|:---------------:|:-------------------:|:------------------:|
 | B12401 | ANAHITHA PANDEY | [Anahitha_Progress_Report]() |  |
 | A12402 | ISHAN MOHAMMAD | [Ishan_Progress_Report](24A1/01-ishan.md) | [group_link](https://chat.whatsapp.com/D2hEHpCOEYg9ZaZ8WlXvsS) |
 | A12403 | DHAIRYA | [Dhairya_Progress_Report](24A1/02-dhairya.md) | [group_link](https://chat.whatsapp.com/CnsU9zkhYa5E4Y3OU3YI99) |
 | N12404 | MUGIL SARAN | [Mugil_Progress_Report]() |  |
+-->
 
-## SCHEDULE OF CLASSES 
+**ASSIGNMENT & WORKSHEET PROGRESS REPORT**
 
+|  | MAT | SCI | DHAIRYA | ISHAN | REMARKS |
+| :---- | :---- | :---- | :---- | :---- | :---- |
+| **2 MON**  | WS-01-SEC-B |  | ✅ | ✅ |  |
+| **3 TUE**   | WS-02-SEC-B |  | ❌ | ❌ | Extended Deadline Tue 3 till 10.30 PM |
+| **4 WED** | WS-01-SEC-C | S1 Paper 2024 |  |  | Deadline Wed 9:00 PM |
+| **5 THU** | WS-02-SEC-C |  |  |  | Deadline Thu 9:00 PM |
+| **6 FRI** |  |  |  |  |  |
+| **7 SAT** | **08 EXAM** |  |  |  |  |
+
+## SCHEDULE OF REVISION EXAMS 
+
+<!--
 **CBSE-X-2024-MAT-SCI(2)-A1** - ANNA NAGAR LEARNING CENTRE
 
 | **SESSION-ID** |   **WEEK**   |      **TIME**        |   **TOPICS**                        | **STATUS** | **REMARKS** |
@@ -42,8 +56,7 @@
 | 241126-17       | NOV-W5-TUE   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
 | 241128-18       | NOV-W5-THU   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
 | 241130-19       | NOV-W5-SAT   |  6:30 PM - 8:00 PM   | --- (---) [👨‍🏫]() [📝]()   |  | | --- | --- |
-
-
+-->
 
 
 
