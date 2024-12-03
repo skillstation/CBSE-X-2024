@@ -20,7 +20,7 @@
 | N12404 | MUGIL SARAN | [Mugil_Progress_Report]() |  |
 -->
 
-## ASSIGNMENT & WORKSHEET PROGRESS REPORT**
+## ASSIGNMENT & WORKSHEET PROGRESS REPORT
 
 |  | MAT | SCI | DHAIRYA | ISHAN | REMARKS |
 | :---- | :---- | :---- | :---- | :---- | :---- |
