@@ -39,7 +39,7 @@
 
 * **Score 90 and above:** Students are permitted to move to the next chapter and begin studying it.  
 * **Score between 80 and 90:** Students must complete impositions and assignments focused only on the incorrect or incomplete problems/answers from the chapter.  
-* **Score below 70:** Students are required to retake a test on the same chapter before proceeding further.
+* **Score below 80:** Students are required to retake a test on the same chapter before proceeding further.
 
 ---
 
