@@ -8,9 +8,10 @@
 
 **CBSE-X-2024-MAT(1)-N1**
 
+<!--
+
 ## STUDENTS ON-ROLL
 
-<!--
 | **STUDENT-ID** | **STUDENT-NAME** | **PROGRESS-REPORT** | **WHATSAPP-GROUP** |
 |:---------------:|:---------------:|:-------------------:|:------------------:|
 | B12401 | ANAHITHA PANDEY | [Anahitha_Progress_Report]() |  |
@@ -19,7 +20,7 @@
 | N12404 | MUGIL SARAN | [Mugil_Progress_Report]() |  |
 -->
 
-**ASSIGNMENT & WORKSHEET PROGRESS REPORT**
+## ASSIGNMENT & WORKSHEET PROGRESS REPORT**
 
 |  | MAT | SCI | DHAIRYA | ISHAN | REMARKS |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -31,6 +32,109 @@
 | **7 SAT** | **08 EXAM** |  |  |  |  |
 
 ## SCHEDULE OF REVISION EXAMS 
+
+---
+
+**Important Note:**
+
+* **Score 90 and above:** Students are permitted to move to the next chapter and begin studying it.  
+* **Score between 80 and 90:** Students must complete impositions and assignments focused only on the incorrect or incomplete problems/answers from the chapter.  
+* **Score below 70:** Students are required to retake a test on the same chapter before proceeding further.
+
+---
+
+**EXAM AND REVISION SLOTS \- DECEMBER**
+
+| WEEK-1 | PHY-1 (09) | MAT-1 (08) |
+| :---- | :---- | :---- |
+| **WEEK-2** | **PHY-1 (11)** | **MAT-1 (13)** |
+| **WEEK-3** | **CHE-1 (04)** | **MAT-1 (09)** |
+| **WEEK-4** | **CHE-1 (13)** | **MAT-1 (14)** |
+
+**EXAM AND REVISION SLOTS \- JANUARY**
+
+| WEEK-1 | PHY-2 (12) | MAT-2 (05) |
+| :---- | :---- | :---- |
+| **WEEK-2** | **BIO-1 (08)** | **MAT-2 (10)** |
+| **WEEK-3** | **CHE-2 (01)** | **MAT-2 (06)** |
+| **WEEK-4** | **BIO-1 (07)** | **MAT-2 (11)** |
+| **\*** | **BIO-1(13)** | **MAT-2 (12)** |
+
+**EXAM AND REVISION SLOTS \- FEBRUARY**
+
+| WEEK-1 | PHY-2 (10) | MAT-3 (07) |
+| :---- | :---- | :---- |
+| **WEEK-2** | **BIO-2 (05)** | **MAT-3 (03)** |
+| **WEEK-3** | **CHE-2 (02)** | **MAT-3 (04)** |
+| **WEEK-4** | **BIO-2 (06)** | **MAT-3 (02)** |
+|  |  | **MAT-3 (01)** |
+
+---
+
+**FOR EXAM SET AND CHAPTER TITLE PLEASE REFER THE TABLE BELOW:**
+
+| PHYSICS-I |  |
+| ----- | :---- |
+|  | **09 LIGHT \- REFLECTION AND REFRACTION**  |
+|  | **11 ELECTRICITY**  |
+|  |  |
+
+| PHYSICS-II |  |
+| ----- | :---- |
+|  | **12 MAGNETIC EFFECTS OF ELECTRICITY** |
+|  | **10 THE HUMAN EYE AND THE COLORFUL WORLD** |
+|  |  |
+
+| CHEMISTRY-I |  |
+| ----- | :---- |
+|  | **04 CARBON AND ITS COMPOUNDS** |
+|  | **03 METALS AND NON-METALS** |
+|  |  |
+
+| CHEMISTRY-II |  |
+| ----- | :---- |
+|  | **01 CHEMICAL REACTIONS AND EQUATIONS** |
+|  | **02 ACIDS, BASES AND SALTS**  |
+|  |  |
+
+| BIOLOGY-I |  |
+| ----- | :---- |
+|  | **08 HEREDITY** |
+|  | **07 HOW TO ORGANISMS REPRODUCE**  |
+|  | **13 OUR ENVIRONMENTS** |
+
+| BIOLOGY-II |  |
+| ----- | :---- |
+|  | **05 LIFE PROCESSES** |
+|  | **06 CONTROL AND COORDINATION**  |
+|  |  |
+
+| MATHEMATICS-I |  |
+| ----- | :---- |
+|  | **08 INTRODUCTION TO TRIGONOMETRY** |
+|  | **13 STATISTICS** |
+|  | **09 SOME APPLICATIONS OF TRIGONOMETRY** |
+|  | **14 PROBABILITY**  |
+
+| MATHEMATICS-II |  |
+| ----- | :---- |
+|  | **05 ARITHMETIC PROGRESSION** |
+|  | **10 CIRCLES** |
+|  | **06 TRIANGLES** |
+|  | **11 AREAS RELATED TO CIRCLES** |
+|  | **12 SURFACE AREAS AND VOLUMES** |
+
+| MATHEMATICS-III |  |
+| ----- | :---- |
+|  | **07 COORDINATE GEOMETRY** |
+|  | **02 POLYNOMIALS** |
+|  | **04 QUADRATIC EQUATIONS** |
+|  | **03 PAIR OF LINEAR EQUATIONS IN 2 VARIABLES** |
+|  | **01 REAL NUMBERS** |
+
+---
+
+
 
 <!--
 **CBSE-X-2024-MAT-SCI(2)-A1** - ANNA NAGAR LEARNING CENTRE
